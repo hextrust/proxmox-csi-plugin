@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  proxmox-csi-plugin:
+  - apiVersion: v2
+    appVersion: v0.1.1
+    created: "2023-07-28T09:31:44.434388555Z"
+    description: A CSI plugin for Proxmox
+    digest: a41c243ab7870d6ddcc94a512e6f25481ba4dcb990fbbee852ee175c9196f49a
+    home: https://github.com/sergelogvinov/proxmox-csi-plugin
+    icon: https://proxmox.com/templates/yoo_nano2/favicon.ico
+    keywords:
+    - storage
+    - block-storage
+    - volume
+    maintainers:
+    - name: Hex Trust DevOps Team
+      url: https://github.com/orgs/hextrust/teams/hextrust-devops-leads
+    name: proxmox-csi-plugin
+    sources:
+    - https://github.com/sergelogvinov/proxmox-csi-plugin
+    type: application
+    urls:
+    - https://github.com/hextrust/proxmox-csi-plugin/releases/download/proxmox-csi-plugin-0.2.0/proxmox-csi-plugin-0.2.0.tgz
+    version: 0.2.0
+generated: "2023-07-28T09:31:44.434396255Z"
